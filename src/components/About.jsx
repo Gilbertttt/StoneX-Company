@@ -19,14 +19,12 @@ const About = () => {
           </div>
           
           <div className="md:w-1/2">
-            <h3 className="text-2xl font-bold mb-6">Crafting Digital Excellence Since 2018</h3>
             <p className="text-gray-600 mb-6">
-              StoneX is a creative digital agency focused on building beautiful, functional websites 
-              and applications that help businesses grow and thrive in the digital landscape.
+            At StoneX, we believe every student's project holds the power to change the world. Across Africa, thousands of brilliant final year projects are forgotten after grading, locked away in archives instead of shaping the future. StoneX is building Nigeria's Innovation Revival Hub; a platform where student ideas don't end at school, but launch as real-world solutions.
+
             </p>
             <p className="text-gray-600 mb-8">
-              Our team of designers, developers, and strategists work collaboratively to deliver 
-              solutions that not only look stunning but also drive real results for our clients.
+            We help students refine their ideas, secure funding, access mentorship, and build startups. By bridging the gap between academia and industry, we enable young inventors to create impact, not just resumes. Don't let your last good idea be your final year project with StoneX, it's only the beginning.
             </p>
             
             <div className="grid grid-cols-2 gap-6">
@@ -40,11 +38,11 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <div className="mr-4 text-blue-600 text-2xl">✓</div>
-                <span className="font-medium">Brand Strategy</span>
+                <span className="font-medium">UI / UX Design</span>
               </div>
               <div className="flex items-center">
                 <div className="mr-4 text-blue-600 text-2xl">✓</div>
-                <span className="font-medium">Digital Marketing</span>
+                <span className="font-medium">Product Development</span>
               </div>
             </div>
           </div>

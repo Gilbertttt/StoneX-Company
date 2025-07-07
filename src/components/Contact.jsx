@@ -105,7 +105,7 @@ const Contact = () => {
                   <div className="text-blue-600 text-xl mr-4 mt-1">📍</div>
                   <div>
                     <h4 className="font-medium mb-1">Our Location</h4>
-                    <p className="text-gray-600">123 Creative Street, Design District, Tokyo 100-0001</p>
+                    <p className="text-gray-600">***************************</p>
                   </div>
                 </div>
                 
@@ -113,7 +113,7 @@ const Contact = () => {
                   <div className="text-blue-600 text-xl mr-4 mt-1">📱</div>
                   <div>
                     <h4 className="font-medium mb-1">Phone Number</h4>
-                    <p className="text-gray-600">+81 (0)3 1234 5678</p>
+                    <p className="text-gray-600">*********************************</p>
                   </div>
                 </div>
                 
@@ -121,7 +121,7 @@ const Contact = () => {
                   <div className="text-blue-600 text-xl mr-4 mt-1">✉️</div>
                   <div>
                     <h4 className="font-medium mb-1">Email Address</h4>
-                    <p className="text-gray-600">hello@stonex.co</p>
+                    <p className="text-gray-600">stonexglobal04@gmail.com</p>
                   </div>
                 </div>
                 

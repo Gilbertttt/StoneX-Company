@@ -4,35 +4,37 @@ import React from 'react';
 const Services = () => {
   const services = [
     {
-      title: "Web Design",
-      description: "Beautiful, responsive websites that engage your audience and reflect your brand identity.",
+      title: "Startup Transformation",
+      description: "We help turn academic projects into viable startups, supporting growth beyond graduation and initial academic goals.",
       icon: "🎨"
     },
     {
-      title: "Web Development",
-      description: "Robust, scalable web applications built with modern technologies for optimal performance.",
+      title: "Project Exposure & Marketing",
+      description: "We showcase final year projects globally using IT solutions platforms and targeted channels to attract investors and partners.",
+      icon: "🛒"
+    },
+    {
+      title: "Project Repository System",
+      description: "StoneX offers a secure e-repository to store, organize, and market student projects in partnership with universities.",
       icon: "💻"
     },
     {
-      title: "Brand Identity",
-      description: "Comprehensive branding solutions that establish a memorable presence in your market.",
-      icon: "🆔"
-    },
+      title: "Project Refinement & Refactoring",
+      description: "We work with students to enhance and refactor projects, turning raw ideas into minimum viable products (MVPs).",
+      icon: "🛠️" 
+      
+    },  
     {
-      title: "Digital Marketing",
-      description: "Strategic campaigns that increase visibility, drive traffic, and convert leads.",
+      title: "Targeted Connection to Markets",
+      description: "We match projects to industries and sectors that can benefit most, ensuring ideas find the right audience and purpose.",
       icon: "📈"
     },
     {
-      title: "UI/UX Design",
-      description: "Intuitive interfaces and seamless user experiences that keep visitors engaged.",
-      icon: "🖌️"
+      title: "Problem Matching via IT Solutions",
+      description: "StoneX uses tech tools to match student innovations with real-world problems, driving practical, scalable impact.",
+      icon: "🖌️"  
     },
-    {
-      title: "E-commerce",
-      description: "Custom online stores designed to maximize conversions and provide exceptional shopping experiences.",
-      icon: "🛒"
-    }
+   
   ];
 
   return (
@@ -41,7 +43,7 @@ const Services = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Services</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            We offer a comprehensive range of digital services to help your business succeed online
+          We Build Your Projects to Reach Its Target Audience
           </p>
           <div className="w-20 h-1 bg-blue-600 mx-auto mt-4"></div>
         </div>
